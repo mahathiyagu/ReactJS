@@ -1,0 +1,33 @@
+.hd4,.hd5{
+   text-align: center;
+}
+
+.card1{
+    
+    border-top: 5px solid crimson !important;
+    border-radius: 30px !important;
+}
+.card2{
+   
+    border-top: 5px solid blue !important;
+    border-radius: 30px !important;
+}
+.card3{
+    
+    border-top: 5px solid green !important;
+    border-radius: 30px !important;
+}
+.card4{
+    
+    border-top: 5px solid orange !important;
+    border-radius: 30px !important;
+}
+
+.data{
+    width: 20%;
+    /* float: right; */
+}
+.data1{
+    width: 30%;
+}
+

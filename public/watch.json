@@ -1,0 +1,72 @@
+[{
+    "Brand" : "BALMAIN",
+    "Title" : "Madrigal",
+    "Price" : "MRP ₹ 33,400",    
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/b/a/balmain-madrigal-b1488-33-24-large.jpg",
+    "Ratings": 5    
+},
+{   
+    "Brand" : "HUBLOT",
+    "Title" : "Classic Fusion Black Magic",
+    "Price" : "MRP ₹ 7,47,600", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/h/u/hublot-classic-fusion-521-cq-1420-lr-juv18-large.jpg",  
+    "Ratings": 4    
+},
+{   
+    "Brand" : "JACOB",
+    "Title" : "Brilliant One Row Tsavorites",
+    "Price" : "MRP ₹ 9,70,000", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/j/a/jacob-co-brilliant-bq020-40-ro-kc-abcba-large_1.jpg",
+    "Ratings": 4.5  
+    
+},
+{
+    "Brand" : "BREMONT",
+    "Title" : "S300",
+    "Price" : "MRP ₹ 3,53,100", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/b/r/bremont-s300-white-br-s300-wh-b-large.jpg",
+    "Ratings": 3.9 
+},
+{
+    "Brand" : "BVLGARI",
+    "Title" : "Aluminium Watch",
+    "Price" : "MRP ₹ 2,60,000", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/b/v/bvlgari-bvlgari-103382-large.jpg",
+    "Ratings": 5  
+},
+{
+    "Brand" : "LOUIS MOINET",
+    "Title" : "Memoris Blue Titanium",
+    "Price" : "MRP ₹ 25,30,000", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/l/o/louis-moinet-memoris-lm-79-20-22-large.jpg",
+    "Ratings": 4.9  
+},
+{
+    "Brand" : "OMEGA",
+    "Title" : "Diver 300M Co‑Axial",
+    "Price" : "MRP ₹ 4,60,300", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/o/m/omega-seamaster-210-32-42-20-03-001-large.jpg",
+    "Ratings": 5
+},
+{
+    "Brand" : "MASERATI",
+    "Title" : "Maserati Stile Watch",
+    "Price" : "MRP ₹ 29,216", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/m/a/maserati-sfida-r8873642001-large.jpg",
+    "Ratings": 3.8  
+},
+{
+    "Brand" : "RAYMOND WEIL",
+    "Title" : "Freelancer  Automatic",
+    "Price" : "MRP ₹ 3,02,000", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/r/a/raymond-weil-freelancer-7741-sc7-52021-large.jpg",
+    "Ratings": 4.5  
+},
+{
+    "Brand" : "TITONI",
+    "Title" : "Cosmo",
+    "Price" : "MRP ₹ 1,20,000", 
+    "image": "https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/t/i/titoni-cosmo-797-sy-db-019-large_1.jpg",
+    "Ratings": 4.8  
+}
+]

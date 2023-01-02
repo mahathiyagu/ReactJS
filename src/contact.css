@@ -1,0 +1,12 @@
+.div1{
+    background-image: url("backgroud.png");
+    height: 90vh;
+    width: 100%;
+}
+
+.div2{
+    background-color: aquamarine;
+}
+.profile,.watch{
+    padding-left: 35%;
+}

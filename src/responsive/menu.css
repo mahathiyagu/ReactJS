@@ -1,0 +1,111 @@
+.logo{
+    color: rgb(18, 95, 18)  !important;
+    font-weight: bolder !important;
+}
+
+.logoimg{
+    width: 15%
+}
+.person{
+    width: 100%;
+}
+
+.orghd{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    color: rgba(255, 153, 0, 0.966);
+    
+    
+}
+.frehd{
+    text-align: center;
+}
+
+.homediv{
+    background-color: gainsboro;
+}
+.workdiv{
+    background-color: rgb(5, 78, 5) !important;
+    border: none !important;
+    /* color: white; */
+}
+.leaf{
+    width:50%;
+    padding-left: 80px;
+}
+
+.carddiv{
+    justify-content: space-around;
+}
+
+.workdiv2{
+    background-color: white;
+}
+.para{
+    text-align: justify;
+}
+.round{
+    border-radius: 50%;
+}
+.btn2{
+    border: none;
+    border-bottom: 2px solid black;
+    background-color: white;
+}
+
+.text{
+    text-align: center;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container-fluid{
+    background-color: gainsboro;
+}
+
+.navbar{
+    background-color: transparent !important;
+}
+
+.mango{
+    width: 100%;
+    
+}
+.banana{
+    width: 88%;
+}
+.fruitdiv{
+    background-color: orange;
+}
+.fruitinnerdiv{
+    background-color: white;
+    border-radius: 20px;
+}
+.feeddiv1{
+    background-color: pink;
+}
+.feeddiv2{
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    
+}
+.heart{
+    width: 25%;
+}
+
+.watchhd1{
+    color: rgb(87, 4, 165);
+    font-family: 'Lobster', cursive;
+}
+
+.watchhd2{
+    color: darkblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fakehd1{
+    color: darkblue;
+    font-style: italic;
+}
